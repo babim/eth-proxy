@@ -1,4 +1,5 @@
 #Description
+Thanks Atrides
 
 This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking written in Python Twisted.
 Originally developed for DwarfPool http://dwarfpool.com/eth
